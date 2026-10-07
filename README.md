@@ -12,18 +12,20 @@ Open `index.html`, click the pencil icon, find the sentence with Ctrl+F, edit it
 
 ## Replace the photo, CV or portfolio
 
-Upload a new file into `assets/` with exactly the same name:
+Click **Add file → Upload files** and upload the new file with exactly the same name. It replaces the old one.
 
-- `assets/deepanshu-jindal.jpg` (portrait, about 900 × 1125 px)
-- `assets/Deepanshu-Jindal-CV.pdf`
-- `assets/Deepanshu-Jindal-Portfolio.pdf`
+- `deepanshu-jindal.jpg` (portrait, about 900 × 1125 px)
+- `Deepanshu-Jindal-CV.pdf`
+- `Deepanshu-Jindal-Portfolio.pdf`
 
 ## Files
 
 | File | What it is |
 | --- | --- |
 | `index.html` | The whole website |
-| `assets/` | Photo, CV and portfolio |
-| `CNAME` | Tells GitHub Pages to use deepanshujindal.com |
+| `deepanshu-jindal.jpg` | Photo |
+| `Deepanshu-Jindal-CV.pdf` | CV |
+| `Deepanshu-Jindal-Portfolio.pdf` | Portfolio |
+| `CNAME` | Tells GitHub Pages to use deepanshujindal.com. Don't delete it. |
 | `favicon.svg` | The "DJ" icon in the browser tab |
 | `robots.txt`, `sitemap.xml` | Help Google find the site |
